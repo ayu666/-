@@ -1,0 +1,2 @@
+# SBFLresearch
+Java代码，计算VirtualBox+Ubuntu环境下收集的测试用例结果以及测试用例执行的代码覆盖数据。最后产生程序谱文件profile，并且编辑bug代码位置，保留源代码。后续对此研究静态代码对软件错误定位的影响。
